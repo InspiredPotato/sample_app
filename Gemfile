@@ -19,12 +19,12 @@ gem 'jbuilder',                '2.2.3'
 gem 'sdoc',                    '0.4.0', group: :doc
 gem 'tzinfo', '~> 1.2', '>= 1.2.2'
 gem 'tzinfo-data'
+  gem 'web-console', '~> 3.1', '>= 3.1.1', group: :development
 
 group :development, :test do
   # gem 'sqlite3',     '1.3.9'
   gem 'sqlite3', '~> 1.3', '>= 1.3.11'
   gem 'byebug',      '3.4.0'
-  gem 'web-console', '~> 3.1', '>= 3.1.1'
   # gem 'web-console', '2.0.0.beta3'
   gem 'spring',      '1.1.3'
 end
