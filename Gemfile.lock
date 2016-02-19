@@ -63,7 +63,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.10.0)
+    coffee-script-source (1.8.0)
     columnize (0.9.0)
     concurrent-ruby (1.0.0)
     debug_inspector (0.0.2)
@@ -161,7 +161,7 @@ GEM
     fog-serverlove (0.1.2)
       fog-core
       fog-json
-    fog-softlayer (1.0.3)
+    fog-softlayer (1.1.0)
       fog-core
       fog-json
     fog-storm_on_demand (0.1.1)
@@ -334,6 +334,7 @@ DEPENDENCIES
   byebug (= 3.4.0)
   carrierwave (= 0.10.0)
   coffee-rails (= 4.1.0)
+  coffee-script-source (= 1.8.0)
   faker (= 1.4.2)
   fog (= 1.36.0)
   guard-minitest (= 2.3.1)

@@ -19,7 +19,8 @@ gem 'jbuilder',                '2.2.3'
 gem 'sdoc',                    '0.4.0', group: :doc
 gem 'tzinfo', '~> 1.2', '>= 1.2.2'
 gem 'tzinfo-data'
-  gem 'web-console', '~> 3.1', '>= 3.1.1', group: :development
+gem 'web-console', '~> 3.1', '>= 3.1.1', group: :development
+gem 'coffee-script-source', '1.8.0'
 
 group :development, :test do
   # gem 'sqlite3',     '1.3.9'
